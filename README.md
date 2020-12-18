@@ -1,4 +1,5 @@
-#Laegue Of Legends Predictor
+# League Of Legends Predictor
+
 Background:
 League of Legends is a massively popular multiplayer online battle arena (MOBA) video game developed by Riot Games. In LoL, players take control of unique “champions” with different abilities and traits and fight against another team of champions(5v5), minions, and monsters. 
 The goal of LoL is to destroy the enemies “Nexus”, a structure nestled deep within the enemies base, guarded by towers and minions. The champions start off weak at level one, and gain experience and gold by killing minions and enemy champions. This increases their level and allows them to buy items that further increase their strength.
